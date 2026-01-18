@@ -10,7 +10,7 @@ Welcome to our Discord server! Before joining, please read and agree to the foll
 
 ## Conduct
 
-1. **Respectful Behavior**: All users must treat each other with respect and courtesy. Harassment, bullying, hate speech, discrimination, or any form of abusive behavior will not be tolerated.
+1. **Respectful Behavior**: All users must treat each other with respect and courtesy. Harassment, bullying, hate speech, discrimination, or any form of abusive behavior will not be tolerated. This includes spamming messages, using the '@everyone' tag without written permission from an administrator, and privately messaging individual users within the internationalDweebs discord server without prior consent.
 
 2. **Content Guidelines**: Users are responsible for the content they post in the server. Content must be appropriate for all ages and should not contain offensive, explicit, or illegal material.
 
@@ -28,13 +28,15 @@ Welcome to our Discord server! Before joining, please read and agree to the foll
 
 2. **Advertising**: Advertising of external products, services, or Discord servers is not allowed without prior permission from server admins.
 
-## Copy Righted Content
+## Copyrighted Content
 
 - You are not allowed to use the server to distribute copyrighted content.
 
 ## Disclaimer
 
 By joining our Discord server, you acknowledge that:
+
+- You are at least 13 years of age.
 
 - We reserve the right to enforce these rules and take appropriate action, including warnings, temporary bans, or permanent bans, against users who violate the terms of this agreement.
 
@@ -50,6 +52,6 @@ By joining the server, you agree to abide by the terms of this End User License 
 
 Thank you for your cooperation and enjoy your time in International Dweebs!
 
-### last updated: 2024/04/11 @5:10pm (y/m/d)
+### last updated: 2026/01/17 @23:59 (YYYY/MM/DD)
 
 you may find a copy of the EULA @: [https://github.com/vulbyte/internationalDweebs/blob/main/EULA/internationalDweebsEULA.md](https://github.com/vulbyte/internationalDweebs/blob/main/EULA/internationalDweebsEULA.md)
